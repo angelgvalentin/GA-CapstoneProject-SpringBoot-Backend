@@ -1,4 +1,4 @@
-# Spring Boot Backend for General Assembly Acpstone Project.
+# Spring Boot Backend for General Assembly Capstone Project.
 
 ## This project utilizes Spring Boot and PostgreSQL for database which was then deployed to Heroku
 
